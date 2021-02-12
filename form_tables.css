@@ -1,0 +1,42 @@
+body{
+    background-image: linear-gradient(to right, #90D994, #93D981, #C3DF4C, #EFD54C, #DB5DB3, #9969BD, #5869B6, #5869B6);
+}
+.h1class{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+.card{
+    border: none;
+}
+.card-title{
+    color: aliceblue;
+    background-color: blueviolet;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.formDivs .row{
+    margin-bottom: 20px;
+}
+
+ label{
+    margin-left: 5%;
+    width: 20%;
+}
+.oplabels{
+    width: auto;
+    margin-left: 5px;
+    margin-right: 15px;
+}
+
+input[type=radio], input[type=checkbox]{
+    margin-top: 5px;
+}
+
+input[type=text], input[type=number], input[type=date], select{
+    width: 60%;
+}
